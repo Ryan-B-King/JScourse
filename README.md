@@ -1,2 +1,0 @@
-# JScourse
- Udemy JS Course
